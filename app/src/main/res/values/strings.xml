@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Catch Phrase</string>
 
-    <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="play_game">Play Game</string>
+    <string name="download_decks">Download Decks</string>
+    <string name="create_decks">Create Decks</string>
+
 </resources>
